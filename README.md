@@ -7,6 +7,9 @@ Kudos to https://github.com/peter-amerkhanian for assisting with this.
 -> Slenium -- https://www.selenium.dev/ <br>
 -> Pandas -- https://pandas.pydata.org/ <br>
 
+<br>
+When installing Chrome Driver and Chrome for Selenium to use be sure your Chrome Driver version matches your version of Chrome. More information can be found here: https://chromedriver.chromium.org/downloads/version-selection<br>
+
 ## To Do <br>
 -> Create a web app version for centralized use and tracking <br>
 -> Create an exe version <br>
