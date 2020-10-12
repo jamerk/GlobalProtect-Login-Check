@@ -9,6 +9,7 @@ Kudos to https://github.com/peter-amerkhanian for assisting with this.
 
 <br>
 When installing Chrome Driver and Chrome for Selenium to use be sure your Chrome Driver version matches your version of Chrome. More information can be found here: https://chromedriver.chromium.org/downloads/version-selection<br>
+
 ## How to use <br>
 1) Fill in the USERNAME and PASSWORD columns in vpn_test.csv <br>
 2) Run with python3 gp_logincheck.py <br>
