@@ -4,7 +4,7 @@ Kudos to https://github.com/peter-amerkhanian for assisting with this.
 <br><br>
 ## Requirements<br>
 -> Python 3 (Tested on Python 3.7.3 in Debian 10.6) <br>
--> Slenium -- https://www.selenium.dev/ <br>
+-> Selenium -- https://www.selenium.dev/ <br>
 -> Pandas -- https://pandas.pydata.org/ <br>
 
 <br>
